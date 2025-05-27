@@ -48,7 +48,7 @@ To run this project locally from a terminal:
 ## 💬 Feedback
 
 If you have feedback, suggestions, or encounter issues, feel free to contact:  
-📧 **jvelazqu@notlan.mx**
+📧 **jvelazquez@notlan.mx**
 
 ---
 
